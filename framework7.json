@@ -1,0 +1,18 @@
+{
+  "cwd": "/Users/msmirnyagin/app/watg",
+  "type": [
+    "web"
+  ],
+  "name": "tg webapp templates",
+  "framework": "svelte",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": "scss",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": true,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
